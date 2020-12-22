@@ -77,7 +77,7 @@ You may change the listening port number by using the `PORT` environment variabl
 
 You can prevent the browser from opening automatically,
 ```sh
-elm-app start --no-browser
+$ elm-app start --no-browser
 ```
 
 ### `elm-app install`
@@ -93,5 +93,5 @@ Run tests with [node-test-runner](https://github.com/rtfeldman/node-test-runner/
 You can make test runner watch project files by running:
 
 ```sh
-elm-app test --watch
+$ elm-app test --watch
 ```
