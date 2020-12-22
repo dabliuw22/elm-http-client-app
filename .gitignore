@@ -1,0 +1,26 @@
+build/
+
+elm-stuff/
+repl-temp-*
+
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+node_modules/
+jspm_packages/
+.npm
+
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# .env
