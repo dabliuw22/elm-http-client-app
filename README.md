@@ -1,4 +1,4 @@
-# Elm App
+# Elm Http Client App
 
 ## Init 
 ```sh
