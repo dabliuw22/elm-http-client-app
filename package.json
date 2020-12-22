@@ -1,0 +1,25 @@
+{
+  "name": "elm-http-client-app",
+  "version": "1.0.0",
+  "description": "Elm http client",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "elm-test init && elm-test && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabliuw22/elm-http-client-app.git"
+  },
+  "author": "wleylop22@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabliuw22/elm-http-client-app/issues"
+  },
+  "homepage": "https://github.com/dabliuw22/elm-http-client-app#readme",
+  "dependencies": {
+    "elm-test": "^0.19.1-revision4"
+  }
+}
