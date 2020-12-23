@@ -24,7 +24,6 @@ $ elm-app install krisajenkins/remotedata
 ```
 
 ## Folder structure
-
 ```sh
 my-app/
 ├── .gitignore
@@ -35,7 +34,7 @@ my-app/
 │   ├── Adapter
 │   │   ├── Http
 │   │   ├── Json
-│   │   └── Json
+│   │   └── Storage
 │   └── Domain
 ├── public
 │   └── index.html
@@ -52,6 +51,9 @@ For the project to build, these files must exist with exact filenames:
 
 * `public/index.html` is the page template;
 * `src/index.js` is the JavaScript entry point.
+
+## Run Backend
+[haskell-http](https://github.com/dabliuw22/haskell-http)
 
 ## Available scripts
 
